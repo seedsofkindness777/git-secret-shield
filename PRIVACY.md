@@ -65,5 +65,4 @@ We may update this Privacy Policy from time to time to reflect extension updates
 
 ## 7. Contact Us
 
-If you have any questions or security inquiries regarding GitSecretShield, please open an issue on our GitHub repository:  
-**GitHub Repository:** [https://github.com/YourUsername/git-secret-shield](https://github.com/YourUsername/git-secret-shield)
+If you have any questions or security inquiries regarding GitSecretShield, please contact us at: seedsofkindness777@gmail.com
